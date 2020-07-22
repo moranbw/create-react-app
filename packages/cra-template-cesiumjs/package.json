@@ -1,0 +1,26 @@
+{
+  "name": "cra-template-cesiumjs",
+  "version": "0.0.1",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "Bare-bones CRA + CesiumJS.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moranbw/create-react-app-cesium.git",
+    "directory": "packages/cra-template-cesium"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/facebook/create-react-app/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
